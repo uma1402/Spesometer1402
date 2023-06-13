@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.bg {
+  height: 100vh;
+  background-size: cover;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/speedometer-img.png');
+}
+
+.b1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: opx;
+}
+
+.b2 {
+  background-color: transparent;
+  color: #ffffff;
+  border-radius: 5px;
+  border-width: opx;
+}
+
+.main-h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.speed {
+  color: #ffffff;
+}
+
+p {
+  color: #cbd5e1;
+}
